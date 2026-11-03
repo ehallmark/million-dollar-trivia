@@ -1,0 +1,14 @@
+The trivia questions in this repository are licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/
+
+This covers questions/ (questions written for this game), tools/opentdb/ and
+tools/opentriviaqa/ (data derived from the sources below, including difficulty and
+correctness ratings), and the question bank tools/build_questions.py builds from them.
+
+Sources, both CC BY-SA 4.0:
+* Open Trivia Database, https://opentdb.com
+* OpenTriviaQA, https://github.com/uberspot/OpenTriviaQA
+
+If you share these questions or anything made from them, credit those sources and
+share it under the same license.

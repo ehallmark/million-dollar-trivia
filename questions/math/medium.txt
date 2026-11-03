@@ -1,0 +1,82 @@
+What is 17 x 6?|102|96|112|106
+What is the sum of the interior angles of a pentagon, in degrees?|540|360|480|720
+What is the smallest prime number greater than 50?|53|51|57|59
+What is the value of 0! (zero factorial)?|1|0|Undefined|Infinity
+What is 5! (5 factorial)?|120|25|60|720
+Which Greek mathematician is often called the father of geometry?|Euclid|Pythagoras|Archimedes|Thales
+What is the area of a circle with radius 3?|9 pi|6 pi|3 pi|12 pi
+What is the greatest common divisor of 36 and 48?|12|6|8|24
+What is the least common multiple of 4 and 6?|12|24|10|2
+If 3x - 7 = 11, what is x?|6|4|5|7
+What is the probability of rolling a total of 7 with two dice?|1/6|1/12|1/9|7/36
+How many edges does a cube have?|12|8|6|10
+What is 2^10?|1,024|1,000|512|2,048
+The Cartesian coordinate system is named after which mathematician?|Rene Descartes|Pierre de Fermat|Blaise Pascal|Isaac Newton
+In the Fibonacci sequence, what number comes right after 13?|21|18|20|26
+A right triangle has legs of 6 and 8. How long is the hypotenuse?|10|12|14|9
+What is 1/3 + 1/6?|1/2|2/9|1/9|2/3
+What is the cube root of 343?|7|6|8|9
+How many diagonals does a hexagon have?|9|6|12|8
+A $40 shirt is 25% off. What is the sale price?|$30|$10|$35|$32
+What is the median of 3, 9, 4, 7, 5?|5|4|7|5.6
+What is the sum of all whole numbers from 1 to 100?|5,050|5,000|5,100|10,100
+Which of these is a perfect number, equal to the sum of its proper divisors?|28|24|30|36
+How many prime numbers are there between 1 and 20?|8|7|9|10
+What is the probability of drawing a heart from a standard 52-card deck?|1/4|1/13|1/2|1/52
+What is the slope of the line y = 3x + 2?|3|2|5|1/3
+What is a polygon with 12 sides called?|Dodecagon|Decagon|Icosagon|Nonagon
+Which German mathematician was nicknamed the Prince of Mathematicians?|Carl Friedrich Gauss|Leonhard Euler|Bernhard Riemann|David Hilbert
+What is the volume of a cube with sides of length 4?|64|16|48|12
+What is 7^2 - 5^2?|24|4|12|14
+What is 13 x 13?|169|159|179|196
+What is 25 x 16?|400|350|375|425
+What is 2^8?|256|128|512|64
+What is 12.5% written as a fraction?|1/8|1/6|1/5|1/12
+What is 0.375 written as a fraction?|3/8|3/5|5/8|3/7
+What is 2/3 of 45?|30|15|25|35
+A price rises from $50 to $60. What is the percent increase?|20%|10%|16.7%|25%
+How many degrees is each interior angle of a regular hexagon?|120|108|135|100
+What is the area of a triangle with base 10 and height 6?|30|60|16|36
+What is the circumference of a circle with diameter 10?|10 pi|5 pi|20 pi|100 pi
+What is the volume of a box measuring 2 by 3 by 4?|24|9|20|26
+If 5x + 3 = 28, what is x?|5|6|4|7
+If x/4 = 9, what is x?|36|13|5|2.25
+What is the y-intercept of the line y = 2x - 5?|-5|2|5|-2
+What is the square root of 196?|14|13|16|12
+What is 6! (6 factorial)?|720|120|360|5,040
+What is the least common multiple of 9 and 15?|45|135|3|30
+Which of these numbers is not prime, because it equals 7 x 13?|91|97|83|89
+What is the smallest two-digit prime number?|11|13|10|17
+What is 3.2 x 10^3 written as an ordinary number?|3,200|320|32,000|0.0032
+What is the probability of rolling an even number on a fair six-sided die?|1/2|1/3|1/6|2/3
+What is the probability of flipping a fair coin twice and getting two heads?|1/4|1/2|1/3|1/8
+A bag holds 3 red and 5 blue marbles. What is the chance of drawing a red one?|3/8|3/5|1/3|5/8
+What is the mean of 4, 8, 15, 16, 23, and 42?|18|15.5|16|20
+What is the mode of the numbers 2, 3, 3, 5, 7, 7, 7, 9?|7|3|5|9
+What is the range of the numbers 3, 11, 7, 19, 5?|16|19|14|9
+How many degrees is each angle of an equilateral triangle?|60|45|90|30
+What do the exterior angles of any convex polygon add up to, in degrees?|360|180|540|720
+What is a triangle with no two sides of equal length called?|Scalene|Isosceles|Equilateral|Obtuse
+What is 7/8 written as a percentage?|87.5%|78%|85%|87%
+What is 18/24 reduced to lowest terms?|3/4|2/3|4/5|5/6
+What is 0.2 x 0.3?|0.06|0.6|0.006|0.5
+What is (-3) x (-4)?|12|-12|7|-7
+What is 3^4?|81|64|27|243
+At 60 miles per hour, how far does a car travel in 2.5 hours?|150 miles|120 miles|140 miles|160 miles
+Which Greek scholar estimated Earth's circumference using shadows at noon?|Eratosthenes|Archimedes|Ptolemy|Thales
+Which Greek thinker supposedly shouted "Eureka!" after a discovery in his bath?|Archimedes|Euclid|Pythagoras|Plato
+Which Italian's 1202 book helped spread Hindu-Arabic numerals across Europe?|Fibonacci|Cardano|Galileo|Tartaglia
+The word "algebra" comes from which language?|Arabic|Greek|Latin|Persian
+How many faces does a tetrahedron have?|4|3|5|6
+How many edges does a square-based pyramid have?|8|5|6|10
+A rectangle has an area of 48 and a width of 6. What is its length?|8|7|9|42
+Which set of three numbers forms a Pythagorean triple?|5, 12, 13|4, 6, 8|5, 10, 12|6, 9, 11
+How many minutes are in a full day?|1,440|1,400|1,240|2,400
+What is 1/4 + 2/3?|11/12|3/7|3/4|5/6
+What is 3/5 divided by 3?|1/5|9/5|1/3|2/5
+What is 40% of 65?|26|24|28|30
+Which number is both a perfect square and a perfect cube?|64|16|27|36
+What year does the Roman numeral MCMXCIX represent?|1999|1899|2001|1949
+What is the answer to a division problem called?|Quotient|Product|Sum|Dividend
+Which self-taught Indian mathematician worked with G. H. Hardy at Cambridge?|Srinivasa Ramanujan|Aryabhata|Brahmagupta|C. R. Rao
+If 3 pens cost $4.50, how much do 7 pens cost?|$10.50|$9.50|$11.00|$12.50

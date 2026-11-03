@@ -1,0 +1,62 @@
+What is the atomic number of iron?|26|24|28|56
+Which element has the chemical symbol W?|Tungsten|Tin|Titanium|Vanadium
+What is the approximate value of Avogadro's number?|6.022 x 10^23|3.0 x 10^8|6.626 x 10^-34|1.6 x 10^-19
+Which particle carries the electromagnetic force?|Photon|Gluon|W boson|Higgs boson
+Which enzyme unwinds the DNA double helix during replication?|Helicase|Ligase|Primase|Polymerase
+What is the approximate half-life of carbon-14?|5,730 years|1,600 years|12,300 years|50,000 years
+Triton is the largest moon of which planet?|Neptune|Uranus|Saturn|Jupiter
+On the Mohs hardness scale, which mineral has a hardness of 1?|Talc|Gypsum|Calcite|Fluorite
+Which element is the most electronegative?|Fluorine|Oxygen|Chlorine|Nitrogen
+Whose gold foil experiment revealed that atoms have a small, dense nucleus?|Ernest Rutherford|J.J. Thomson|Niels Bohr|James Chadwick
+What is the boundary between Earth's crust and mantle called?|Mohorovicic discontinuity|Gutenberg discontinuity|Lehmann discontinuity|Conrad discontinuity
+What is the SI unit of magnetic flux density?|Tesla|Weber|Henry|Gauss
+Which cell structure reads mRNA to build proteins?|Ribosome|Lysosome|Peroxisome|Centriole
+Which physicist devised the famous thought experiment of a cat in a sealed box?|Erwin Schrodinger|Werner Heisenberg|Niels Bohr|Max Planck
+What is the outermost layer of the Sun's atmosphere called?|Corona|Chromosphere|Photosphere|Convection zone
+What is the average distance from Earth to the Sun?|150 million km|15 million km|1.5 billion km|500 million km
+What is the mass limit of about 1.4 suns for a stable white dwarf called?|Chandrasekhar limit|Eddington limit|Roche limit|Hayflick limit
+Which hormone from the pancreas lowers blood sugar levels?|Insulin|Glucagon|Adrenaline|Cortisol
+What is the most abundant protein in the human body?|Collagen|Keratin|Hemoglobin|Actin
+Which gas law says pressure times volume stays constant at a fixed temperature?|Boyle's law|Charles's law|Gay-Lussac's law|Avogadro's law
+Which metal is a liquid at normal room temperature?|Mercury|Gallium|Cesium|Sodium
+What is the point in a planet's orbit closest to the Sun called?|Perihelion|Aphelion|Perigee|Apogee
+In DNA, which base pairs with adenine?|Thymine|Uracil|Guanine|Cytosine
+What is the longest bone in the human body?|Femur|Tibia|Humerus|Fibula
+Which physicist formulated the exclusion principle for electrons?|Wolfgang Pauli|Enrico Fermi|Paul Dirac|Max Planck
+What is the approximate age of the universe?|13.8 billion years|4.6 billion years|10.2 billion years|20.5 billion years
+Which layer of Earth is liquid metal and generates the magnetic field?|Outer core|Inner core|Lower mantle|Asthenosphere
+What is the escape velocity from Earth's surface, approximately?|11.2 km/s|7.9 km/s|3.0 km/s|25.0 km/s
+After hydrogen, which element is the most abundant in the universe?|Helium|Oxygen|Carbon|Neon
+In which part of the chloroplast does the Calvin cycle take place?|Stroma|Thylakoid membrane|Granum|Cristae
+Which physicist discovered the neutron in 1932?|James Chadwick|Ernest Rutherford|Niels Bohr|Enrico Fermi
+Which particles carry the strong nuclear force between quarks?|Gluons|Photons|W bosons|Higgs bosons
+Who proposed the theory of continental drift in 1912?|Alfred Wegener|Charles Lyell|James Hutton|Harry Hess
+Which organelle modifies, sorts and packages proteins for export from the cell?|Golgi apparatus|Lysosome|Nucleolus|Vacuole
+Io, the most volcanically active body in the solar system, orbits which planet?|Jupiter|Saturn|Uranus|Neptune
+What is the SI unit of electric charge?|Coulomb|Ampere|Volt|Farad
+Which SI unit measures radioactivity as one decay per second?|Becquerel|Sievert|Gray|Curie
+Which radioactive noble gas can build up in basements and cause lung cancer?|Radon|Xenon|Krypton|Argon
+Which metal has the lowest density of all metals?|Lithium|Sodium|Aluminium|Magnesium
+Which element has the atomic number 82?|Lead|Tin|Bismuth|Thallium
+Which physicist discovered the electron in 1897?|J. J. Thomson|Ernest Rutherford|Niels Bohr|James Chadwick
+Whose X-ray image known as Photo 51 helped reveal the structure of DNA?|Rosalind Franklin|Barbara McClintock|Dorothy Hodgkin|Lise Meitner
+What is the boundary around a black hole beyond which nothing can escape?|Event horizon|Photon sphere|Accretion disk|Singularity
+What is a rapidly spinning neutron star that emits regular beams of radiation called?|Pulsar|Quasar|Red dwarf|Brown dwarf
+In the stellar spectral sequence OBAFGKM, which class has the hottest stars?|O|B|K|M
+Marble is a metamorphic rock formed from which rock?|Limestone|Sandstone|Shale|Granite
+Which layer of the atmosphere contains most of the ozone layer?|Stratosphere|Mesosphere|Thermosphere|Exosphere
+Which white blood cells produce antibodies?|B cells|T cells|Neutrophils|Macrophages
+Which gland is often called the "master gland" of the endocrine system?|Pituitary|Thyroid|Adrenal|Pineal
+Which part of the brain mainly coordinates balance and fine movement?|Cerebellum|Medulla oblongata|Hypothalamus|Frontal lobe
+Which sugar is found in RNA but not in DNA?|Ribose|Deoxyribose|Glucose|Fructose
+Who created the first vaccine, against smallpox, in 1796?|Edward Jenner|Louis Pasteur|Robert Koch|Joseph Lister
+Which physicist formulated the uncertainty principle in 1927?|Werner Heisenberg|Max Born|Niels Bohr|Paul Dirac
+Which physicist proposed in 1900 that energy is emitted in discrete quanta?|Max Planck|Albert Einstein|Niels Bohr|Ernest Rutherford
+Which famous comet returns to the inner solar system about every 76 years?|Halley's Comet|Comet Hale-Bopp|Comet Encke|Comet Hyakutake
+Which spacecraft became the first to enter interstellar space, in 2012?|Voyager 1|Voyager 2|Pioneer 10|New Horizons
+Which dwarf planet is the largest object in the asteroid belt?|Ceres|Vesta|Pallas|Hygiea
+Which geologic era is known as the Age of Reptiles?|Mesozoic|Paleozoic|Cenozoic|Proterozoic
+What is the main ore of aluminium?|Bauxite|Hematite|Galena|Cinnabar
+Which element, made in 1937, was the first to be produced artificially?|Technetium|Promethium|Plutonium|Neptunium
+Whose equations of the 1860s unified electricity, magnetism and light?|James Clerk Maxwell|Michael Faraday|Andre-Marie Ampere|Heinrich Hertz
+Who discovered the planet Uranus in 1781?|William Herschel|Galileo Galilei|Johannes Kepler|Edmond Halley

@@ -1,0 +1,82 @@
+What is 7 x 8?|56|54|58|64
+How many sides does a hexagon have?|6|5|7|8
+What is the square root of 144?|12|11|14|16
+What is 15% of 200?|30|15|20|35
+How many degrees are in a right angle?|90|45|180|100
+What is 1/2 + 1/4?|3/4|2/6|1/6|2/3
+What is the value of pi rounded to two decimal places?|3.14|3.12|3.16|3.41
+How many degrees do the three angles of a triangle add up to?|180|90|270|360
+What is 2^5?|32|10|16|64
+Which of these numbers is prime?|13|15|21|27
+What is 100 divided by 4?|25|20|24|40
+What is a triangle with all three sides the same length called?|Equilateral|Isosceles|Scalene|Obtuse
+What is the perimeter of a square with sides of length 5?|20|25|10|15
+If x + 5 = 12, what is x?|7|5|17|6
+What is 9 squared?|81|18|72|99
+How many minutes are in 3 hours?|180|120|150|300
+What number does the Roman numeral L stand for?|50|100|500|10
+What is the probability that a fair coin lands on heads?|1/2|1/3|1/4|2/3
+What is the area of a rectangle that is 4 by 6?|24|20|10|28
+The formula a^2 + b^2 = c^2 is named after which Greek thinker?|Pythagoras|Archimedes|Euclid|Aristotle
+What is 0.5 written as a percentage?|50%|5%|0.5%|500%
+How many sides does an octagon have?|8|6|10|12
+What is 1,000 x 1,000?|1,000,000|100,000|10,000,000|10,000
+What is the next number in the pattern 2, 4, 8, 16?|32|24|20|30
+What is the chance of rolling a 6 on a standard six-sided die?|1/6|1/2|1/3|1/12
+What is 3/4 written as a decimal?|0.75|0.34|0.70|0.80
+How many centimeters are in one meter?|100|10|1,000|60
+What is the only even prime number?|2|4|0|6
+What is 12 x 12?|144|124|132|154
+What is the average of 2, 4, and 9?|5|4|6|15
+What is 6 x 9?|54|56|48|63
+What is 45 + 38?|83|73|81|93
+What is 100 - 37?|63|73|67|53
+What is 25% of 80?|20|25|16|40
+What is 1,000 minus 1?|999|9,999|990|900
+What is half of 250?|125|115|150|135
+What is 11 x 11?|121|111|112|131
+What is 3/4 of 100?|75|25|50|80
+How many degrees are in a straight angle?|180|90|270|360
+What is the square root of 81?|9|8|7|11
+What is 10^3?|1,000|100|10,000|300
+How many hours are in two days?|48|24|36|72
+What is 64 divided by 8?|8|6|7|9
+What number does the Roman numeral C stand for?|100|50|500|1,000
+What do you call an angle smaller than 90 degrees?|Acute|Obtuse|Reflex|Straight
+What is 0.25 written as a fraction?|1/4|1/2|2/5|1/5
+What is 10% of 350?|35|3.5|30|70
+A pizza is cut into 8 equal slices and you eat 2. What fraction did you eat?|1/4|1/8|1/2|1/3
+How many millimeters are in one centimeter?|10|100|1,000|12
+How many grams are in one kilogram?|1,000|100|10|10,000
+How many inches are in one foot?|12|10|16|36
+How many feet are in one yard?|3|2|4|12
+What is the perimeter of an equilateral triangle with sides of length 7?|21|14|28|49
+What is the area of a square with sides of length 6?|36|24|12|30
+What is a polygon with ten sides called?|Decagon|Nonagon|Dodecagon|Octagon
+What is the next number in the pattern 5, 10, 15, 20?|25|30|24|22
+What is the next number in the pattern 1, 4, 9, 16?|25|20|24|36
+What is 7 + 7 + 7 + 7?|28|21|35|24
+If x - 4 = 10, what is x?|14|6|10|40
+If 2x = 18, what is x?|9|8|16|36
+What is the largest two-digit whole number?|99|98|100|90
+How many degrees do the four angles of a rectangle add up to?|360|180|270|540
+What is 1/3 of 27?|9|3|6|12
+How many corners (vertices) does a cube have?|8|6|12|4
+What is a line from the center of a circle to its edge called?|Radius|Diameter|Chord|Tangent
+What is the distance all the way around a circle called?|Circumference|Diameter|Radius|Chord
+What is 12 x 5?|60|50|65|72
+What is 96 divided by 8?|12|11|14|16
+What is 13 x 3?|39|36|33|42
+Which of these numbers can be divided evenly by 3?|51|52|53|55
+How many zeros are in one million?|6|5|7|9
+How many days are in a leap year?|366|365|364|367
+Which shape has four equal sides and four right angles?|Square|Rhombus|Rectangle|Trapezoid
+What is a triangle with one 90-degree angle called?|Right triangle|Acute triangle|Obtuse triangle|Equilateral triangle
+What is 1 + 2 + 3 + 4 + 5?|15|12|14|20
+What is 47 rounded to the nearest ten?|50|40|45|60
+In the number 3,742, what is the place value of the digit 7?|Hundreds|Tens|Thousands|Ones
+What is a whole number that cannot be divided evenly by 2 called?|Odd number|Even number|Prime number|Square number
+How many 25-cent coins make one dollar?|4|5|3|10
+Which operation is the inverse of multiplication?|Division|Subtraction|Addition|Exponents
+What is 3 x 3 x 3?|27|9|18|33
+Which 3D shape has a circular base and comes to a single point?|Cone|Cylinder|Pyramid|Sphere

@@ -1,0 +1,44 @@
+In "HTTPS", what does the letter S stand for?|Secure|Server|System|Standard
+Who co-founded Apple with Steve Jobs and designed the Apple I computer?|Steve Wozniak|Steve Ballmer|Paul Allen|Bill Gates
+In what year did Apple release the first iPhone?|2007|2005|2008|2010
+What does DNS stand for?|Domain Name System|Digital Network Service|Data Name Server|Domain Number System
+What is the binary number 1010 in decimal?|10|8|12|5
+Which programming language is named after a British comedy group?|Python|Ruby|Perl|Java
+What does LED stand for?|Light-Emitting Diode|Low Energy Display|Light Energy Device|Laser Emitting Diode
+Which data structure works on a "last in, first out" basis?|Stack|Queue|Array|Tree
+Who is often called the first computer programmer?|Ada Lovelace|Grace Hopper|Mary Somerville|Hedy Lamarr
+Which company originally developed the Java programming language?|Sun Microsystems|Microsoft|IBM|Apple
+What does IP stand for in "IP address"?|Internet Protocol|Internal Port|Internet Provider|Interface Protocol
+How many bits are in a nibble?|4|2|8|16
+Which company released the arcade game Pong in 1972?|Atari|Nintendo|Sega|Namco
+What does GUI stand for?|Graphical User Interface|General Utility Interface|Graphic Unit Integration|Global User Input
+Who designed the mechanical Difference Engine in the 1820s?|Charles Babbage|Alan Turing|John von Neumann|Blaise Pascal
+Which character encoding defined 128 characters in its original version?|ASCII|Unicode|EBCDIC|UTF-8
+SQL is a language mainly used to work with what?|Databases|3D graphics|Audio files|Web animations
+What program translates a whole program's source code into machine code before it runs?|Compiler|Interpreter|Debugger|Text editor
+What does the HTTP error code 404 mean?|Page not found|Server overload|Access denied|Bad gateway
+Which inventor shared the 1909 Nobel Prize in Physics for wireless telegraphy?|Guglielmo Marconi|Nikola Tesla|Heinrich Hertz|Thomas Edison
+ARPANET was the forerunner of what?|The Internet|Cable TV|Cell phone networks|GPS
+What does CSS stand for in web design?|Cascading Style Sheets|Computer Style Sheets|Creative Style System|Coded Site Styles
+Which number system uses the digits 0-9 and the letters A-F?|Hexadecimal|Octal|Binary|Decimal
+Which company made the 4004, the first commercial microprocessor?|Intel|IBM|AMD|Motorola
+In programming, what is a loop used for?|Repeating code|Storing text|Naming variables|Drawing graphics
+What are fake emails that trick people into revealing passwords called?|Phishing|Hashing|Caching|Pinging
+The transistor was invented in 1947 at which research lab?|Bell Labs|Xerox PARC|MIT Lincoln Lab|IBM Research
+What does VPN stand for?|Virtual Private Network|Verified Public Network|Virtual Protected Node|Visual Private Network
+Who founded Amazon in 1994?|Jeff Bezos|Elon Musk|Larry Ellison|Jack Ma
+Moore's law predicts that what roughly doubles about every two years?|Transistors on a chip|Internet users|Hard drive prices|Screen resolution
+Which protocol is mainly used to send email between servers?|SMTP|FTP|SSH|DHCP
+Engineer Percy Spencer invented which appliance after a magnetron melted his candy bar?|Microwave oven|Toaster|Electric kettle|Dishwasher
+A CAPTCHA test is designed to tell human users apart from what?|Bots|Viruses|Hackers|Routers
+Who launched the GNU Project and founded the Free Software Foundation?|Richard Stallman|Linus Torvalds|Eric Raymond|Ken Thompson
+In computer graphics, what does RGB stand for?|Red, green, blue|Red, gold, black|Range, gain, brightness|Raster graphics bitmap
+Samuel Morse is famous for a code used with which invention?|Telegraph|Telephone|Radio|Typewriter
+Which language runs natively in web browsers to make pages interactive?|JavaScript|Python|C++|Fortran
+The Unix operating system was first developed at which research lab?|Bell Labs|Xerox PARC|IBM Research|MIT Media Lab
+What malicious program spreads by attaching copies of itself to other files?|Virus|Firewall|Driver|Compiler
+Which company introduced the Walkman portable cassette player in 1979?|Sony|Panasonic|Philips|Toshiba
+Inventor Philo Farnsworth is best known for pioneering which device?|Electronic television|Electric guitar|Transistor radio|Radar
+Who invented the cotton gin in 1793?|Eli Whitney|Samuel Colt|Cyrus McCormick|Elias Howe
+Which type of storage keeps its data when the power is switched off?|Flash memory|DRAM|SRAM|CPU registers
+Boolean logic, used in all digital circuits, is named after which mathematician?|George Boole|Charles Babbage|John Napier|Blaise Pascal

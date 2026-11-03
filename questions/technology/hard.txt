@@ -1,0 +1,64 @@
+What was the name of the first web browser, created by Tim Berners-Lee?|WorldWideWeb|Mosaic|Netscape|Lynx
+Which Motorola engineer made the first handheld mobile phone call in 1973?|Martin Cooper|Robert Noyce|Gordon Moore|Jack Kilby
+In what year did Ray Tomlinson send the first networked email?|1971|1965|1983|1989
+Which language was strongly influenced by Grace Hopper's FLOW-MATIC?|COBOL|FORTRAN|BASIC|Pascal
+Who built the first integrated circuit at Texas Instruments in 1958?|Jack Kilby|Robert Noyce|William Shockley|John Bardeen
+What is the worst-case time complexity of binary search on a sorted list?|O(log n)|O(n)|O(n log n)|O(1)
+Which sorting algorithm picks a pivot and averages O(n log n) but is O(n^2) at worst?|Quicksort|Merge sort|Heapsort|Bubble sort
+Which British mathematician proposed the imitation game test for machine intelligence in 1950?|Alan Turing|John von Neumann|Claude Shannon|Charles Babbage
+Who is known as the father of information theory?|Claude Shannon|Norbert Wiener|Alan Turing|John McCarthy
+ENIAC was originally built to calculate what for the US Army?|Artillery firing tables|Census results|Weather forecasts|Payroll records
+Which port number does HTTPS use by default?|443|80|21|8080
+Which programming language did Dennis Ritchie create at Bell Labs?|C|Java|Python|Fortran
+Which protocol maps IP addresses to MAC addresses on a local network?|ARP|DHCP|DNS|ICMP
+How many bits long is an IPv6 address?|128|32|64|256
+Who coined the term "artificial intelligence" for a 1956 Dartmouth workshop?|John McCarthy|Marvin Minsky|Alan Turing|Herbert Simon
+Which research center developed the Xerox Alto, a 1973 computer with a GUI?|Xerox PARC|Bell Labs|MIT Media Lab|IBM Watson
+Who invented the computer mouse in the 1960s?|Douglas Engelbart|Alan Kay|Ivan Sutherland|Steve Jobs
+What is the decimal value of the hexadecimal number FF?|255|256|240|15
+Who released the first version of the Linux kernel in 1991?|Linus Torvalds|Richard Stallman|Ken Thompson|Dennis Ritchie
+A Wheatstone bridge circuit is used to measure what?|Unknown resistance|Light intensity|Fluid flow|Air pressure
+In a hash function, what is a collision?|Two inputs, same output|One input, two outputs|Output longer than input|Function that never ends
+Which engineer designed the Brooklyn Bridge, later completed by his son?|John A. Roebling|Gustave Eiffel|Isambard Brunel|Joseph Strauss
+Which programming paradigm treats computation as evaluating math functions?|Functional|Object-oriented|Procedural|Logic
+Which layer is number 3 in the seven-layer OSI networking model?|Network|Transport|Data link|Session
+Which British engineer filed a patent for a turbojet engine in 1930?|Frank Whittle|Hans von Ohain|Wernher von Braun|Robert Goddard
+Which computer architecture stores program instructions and data in the same memory?|Von Neumann|Harvard|Dataflow|Systolic array
+Which Unix tool is named after "g/re/p", meaning global regular expression print?|grep|awk|sed|find
+What type of bridge is San Francisco's Golden Gate Bridge?|Suspension bridge|Cable-stayed bridge|Arch bridge|Cantilever bridge
+Which Bletchley Park computer helped break the German Lorenz cipher?|Colossus|ENIAC|Bombe|Z3
+How many different values can a 16-bit unsigned integer hold?|65,536|65,535|32,768|16,384
+What was the first commercial computer produced in the United States, in 1951?|UNIVAC I|ENIAC|IBM 701|EDSAC
+Which programming language did John Backus's team at IBM release in 1957?|Fortran|COBOL|Lisp|ALGOL
+Which programming language did John McCarthy create in 1958?|Lisp|Fortran|Pascal|Simula
+Who created the Python programming language?|Guido van Rossum|Larry Wall|Yukihiro Matsumoto|James Gosling
+Who created the C++ programming language?|Bjarne Stroustrup|Dennis Ritchie|Ken Thompson|Niklaus Wirth
+Who created JavaScript in 1995 while working at Netscape?|Brendan Eich|Marc Andreessen|James Gosling|Douglas Crockford
+Which simple sorting algorithm repeatedly swaps adjacent items that are out of order?|Bubble sort|Merge sort|Heap sort|Quicksort
+What is the average time complexity of looking up a key in a hash table?|O(1)|O(log n)|O(n)|O(n log n)
+Which data structure processes items on a first in, first out basis?|Queue|Stack|Tree|Heap
+Which algorithm finds shortest paths in a graph with no negative edge weights?|Dijkstra's algorithm|Kruskal's algorithm|Prim's algorithm|Floyd's cycle detection
+Which encryption standard, adopted by the US in 2001, replaced DES?|AES|RSA|SHA-1|Blowfish
+Which 1976 method lets two parties agree on a shared secret key over a public channel?|Diffie-Hellman|RSA|Caesar cipher|One-time pad
+Which Git command copies an existing remote repository to your computer?|git clone|git init|git commit|git merge
+Which IPv4 address is reserved for the local machine, known as localhost?|127.0.0.1|192.168.0.1|0.0.0.0|255.255.255.255
+How many layers does the OSI networking model have?|7|5|4|6
+Which port does SSH use by default?|22|21|23|25
+Which protocol automatically assigns IP addresses to devices on a network?|DHCP|DNS|ARP|NAT
+Who co-founded Intel with Robert Noyce in 1968?|Gordon Moore|William Shockley|Jack Kilby|Andy Grove
+In 1947, what did engineers find in the Harvard Mark II and log as an actual bug?|A moth|A cockroach|A beetle|A spider
+What was the first .com domain name ever registered, in 1985?|symbolics.com|ibm.com|xerox.com|apple.com
+What is the title of the first video ever uploaded to YouTube?|Me at the zoo|Hello World|First Upload|My Cat Video
+What does SQL stand for?|Structured Query Language|Standard Query Logic|Sequential Query Layer|System Query Language
+Which company created the C# programming language?|Microsoft|Sun Microsystems|Apple|Oracle
+Which IBM computer defeated world chess champion Garry Kasparov in a 1997 match?|Deep Blue|Watson|Deep Thought|Big Blue
+Which IBM system beat two former champions on the quiz show Jeopardy! in 2011?|Watson|Deep Blue|Summit|Siri
+Which DeepMind program defeated Go champion Lee Sedol in 2016?|AlphaGo|AlphaZero|Deep Blue|Watson
+Which logic gate outputs true only when its two inputs are different?|XOR|AND|OR|NAND
+In 8-bit two's complement, what number does 11111111 represent?|-1|255|-127|-128
+Which inventor developed the AC induction motor patented in 1888?|Nikola Tesla|Thomas Edison|George Westinghouse|Michael Faraday
+Which law states that voltage equals current times resistance?|Ohm's law|Kirchhoff's law|Faraday's law|Coulomb's law
+On January 1, 1983, ARPANET switched from NCP to which protocol suite?|TCP/IP|OSI|IPX/SPX|AppleTalk
+Who described a universal computing machine in his 1936 paper "On Computable Numbers"?|Alan Turing|John von Neumann|Alonzo Church|Kurt Godel
+What was the name of the 1986 boot-sector virus written by two brothers in Pakistan?|Brain|Morris|ILOVEYOU|Melissa
+The IBM PC launched in 1981 with an operating system from which company?|Microsoft|Apple|Digital Research|Intel

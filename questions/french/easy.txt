@@ -1,0 +1,100 @@
+What does "bonjour" mean?|hello|goodbye|thank you|please
+What is the French word for "cat"?|chat|chien|cheval|oiseau
+How do you say "thank you" in French?|merci|pardon|bonsoir|salut
+What colour is "rouge"?|red|blue|green|yellow
+What is the French for "the book"?|le livre|le libre|la lettre|le lit
+What number is "trois"?|three|two|thirteen|thirty
+What does "au revoir" mean?|goodbye|hello|welcome|excuse me
+What is the French word for "water"?|eau|pain|lait|vin
+What does "oui" mean?|yes|no|maybe|why
+Which French word means "house"?|maison|jardin|voiture|école
+Which day of the week is "lundi"?|Monday|Tuesday|Friday|Sunday
+What is the capital city of France?|Paris|Lyon|Marseille|Bordeaux
+What does "je m'appelle" mean?|my name is|I live in|I would like|I am from
+What is the French word for "dog"?|chien|chat|lapin|cochon
+What does "s'il vous plaît" mean?|please|sorry|you're welcome|excuse me
+What is "fromage" in English?|cheese|bread|butter|milk
+What colour is "noir"?|black|white|brown|grey
+Which French word means both "girl" and "daughter"?|fille|fils|femme|mère
+How do you say "ten" in French?|dix|deux|six|onze
+What does "grand" usually mean?|big|small|old|new
+What is the French word for "apple"?|pomme|poire|pêche|prune
+What does "Comment allez-vous ?" mean?|How are you|What is your name|Where are you going|How old are you
+Which month is "janvier"?|January|June|July|February
+What is the French word for "sun"?|soleil|lune|ciel|étoile
+What does "petit" mean?|small|pretty|quick|heavy
+What does "bonne nuit" mean?|good night|good morning|good luck|good evening
+How do you say "Friday" in French?|vendredi|mercredi|samedi|jeudi
+What is the French word for a male "friend"?|ami|homme|frère|voisin
+What does "je suis" mean in "je suis content"?|I am|I have|I go|I want
+What does "la plage" mean?|the beach|the square|the page|the plate
+What does "non" mean?|no|yes|now|never
+What is the French word for "bread"?|pain|pomme|poisson|poulet
+What colour is "vert"?|green|blue|purple|grey
+What colour is "jaune"?|yellow|orange|pink|white
+What colour is "blanc"?|white|black|blue|pink
+What number is "cinq"?|five|four|six|fifteen
+What number is "vingt"?|twenty|two|twelve|thirty
+What number is "cent"?|one hundred|one thousand|ten|fifty
+How do you say "seven" in French?|sept|cinq|six|huit
+What does "Je t'aime" mean?|I love you|I miss you|I know you|I see you
+What is the French word for "milk"?|lait|lit|laine|loup
+Which French word means "school"?|école|église|étoile|épicerie
+What does "garçon" mean?|boy|girl|man|baby
+What does "femme" mean?|woman|man|child|family
+Which day of the week is "dimanche"?|Sunday|Saturday|Monday|Thursday
+Which day of the week is "mardi"?|Tuesday|Wednesday|Thursday|Monday
+How do you say "Saturday" in French?|samedi|dimanche|jeudi|mardi
+Which month is "août"?|August|April|October|May
+Which month is "juillet"?|July|June|January|April
+What is the French word for "car"?|voiture|vélo|avion|bateau
+What does "le vélo" mean?|the bicycle|the car|the bus|the boat
+What does "merci beaucoup" mean?|thank you very much|you're welcome|see you later|excuse me
+What does "excusez-moi" mean?|excuse me|thank you|welcome|goodbye
+What does "bonsoir" mean?|good evening|good morning|good luck|well done
+What does the informal greeting "salut" mean?|hi|thanks|please|sorry
+What is the French word for "mother"?|mère|père|sœur|tante
+What does "père" mean?|father|brother|uncle|grandfather
+What does "frère" mean?|brother|father|cousin|friend
+What is the French word for "sister"?|sœur|cousine|tante|fille
+What does "la tête" mean?|the head|the hand|the foot|the back
+What is the French word for "hand"?|main|pied|bras|nez
+What does "le nez" mean?|the nose|the neck|the knee|the ear
+What does "chaud" mean?|hot|cold|wet|dry
+What does "la neige" mean?|snow|rain|fog|wind
+What is the French word for "fish"?|poisson|poulet|porc|bœuf
+What is "le vin"?|wine|wind|vinegar|beer
+What is "une fraise"?|a strawberry|a raspberry|a cherry|a plum
+What does "bon appétit" mean?|enjoy your meal|good luck|cheers|I'm hungry
+Which word do the French say when raising a glass in a toast?|santé|merci|bravo|voilà
+What does "je ne sais pas" mean?|I don't know|I don't want|I can't go|I'm not here
+What is the French for "the sea"?|la mer|le lac|le fleuve|la côte
+What does "aujourd'hui" mean?|today|tomorrow|yesterday|tonight
+What does "l'arbre" mean?|the tree|the flower|the leaf|the garden
+What is the French word for "flower"?|fleur|feuille|fruit|forêt
+What is the French for "the kitchen"?|la cuisine|la chambre|le salon|le grenier
+In a French home, what is "la chambre"?|the bedroom|the bathroom|the living room|the attic
+What does "le petit-déjeuner" mean?|breakfast|lunch|dinner|a snack
+What does "Où est...?" mean?|Where is...?|What is...?|Who is...?|When is...?
+What does "pourquoi" mean?|why|how|when|what
+What does "quand" mean?|when|where|how many|who
+What does "mais" mean?|but|and|or|so
+What does "très" mean?|very|three|much|a little
+What does "beaucoup" mean?|a lot|beautiful|a little|enough
+What is "le chapeau"?|the hat|the shirt|the shoe|the castle
+What is the French word for "boat"?|bateau|bâton|gâteau|château
+What does "la gare" mean?|the train station|the garage|the airport|the harbour
+What does "à demain" mean?|see you tomorrow|see you tonight|good morning|see you next week
+Which animal is "une vache"?|a cow|a horse|a sheep|a goat
+Which animal is "un oiseau"?|a bird|a fish|a mouse|a bear
+Which animal is "une souris"?|a mouse|a rat|a spider|a frog
+What does "bienvenue" mean?|welcome|well done|goodbye|good wine
+What is a polite reply to "merci" meaning "you're welcome"?|de rien|à plus|bien sûr|pas encore
+Which river flows through Paris?|la Seine|la Loire|le Rhône|la Garonne
+The word "croissant" literally describes what shape?|a crescent|a circle|a square|a star
+Which French city hosts a famous film festival every May?|Cannes|Nice|Lyon|Lille
+What is the French national anthem called?|La Marseillaise|La Parisienne|L'Internationale|La Bretonne
+Which of these countries has French as an official language?|Belgium|Spain|Austria|Portugal
+How do you say "I" in French?|je|tu|il|nous
+What does "avec" mean?|with|without|for|after
+What does "une semaine" mean?|a week|a month|a year|a weekend
