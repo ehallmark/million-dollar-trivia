@@ -3,6 +3,10 @@
 A "Who Wants to Be a Millionaire"-style trivia game for a tiny handheld: a Waveshare
 RP2040-PiZero with the Waveshare 1.44" LCD HAT, running MicroPython, in a 3D-printed case.
 
+![Title screen, category menu, money ladder, a question and the final-answer prompt](docs/screens.png)
+
+*Screens from `tools/sim.py`, which runs the game code on a desktop (shown at 2x).*
+
 * 15,292 multiple-choice questions in 16 categories (general knowledge, history,
   geography, science, nature, art history, music, movies & TV, literature, English,
   French, math, technology, politics, sports, video games), each easy, medium and hard
